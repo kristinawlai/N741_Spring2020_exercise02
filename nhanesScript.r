@@ -1,3 +1,6 @@
+#My work on Exercise 2
+#Edited on January 22, 2020
+
 library(hexbin)
 
 # use the data() function
